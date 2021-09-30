@@ -1,0 +1,9 @@
+2021-09-30 20:09:299 INFO  ToDoMVCPage:62 - Item Added: 3
+2021-09-30 20:09:849 INFO  ToDoMVCPage:70 - Item Deleted: 2
+2021-09-30 20:09:153 INFO  ServiceHooks:43 - Addition & Deletion in ToDo List is pass
+2021-09-30 20:09:873 INFO  ToDoMVCPage:62 - Item Added: 3
+2021-09-30 20:09:304 INFO  ToDoMVCPage:78 - Item Completed: 2
+2021-09-30 20:09:629 INFO  ServiceHooks:43 - Completion of ToDo items is pass
+2021-09-30 20:09:162 INFO  ToDoMVCPage:62 - Item Added: 3
+2021-09-30 20:09:602 INFO  ToDoMVCPage:78 - Item Completed: 2
+2021-09-30 20:09:937 INFO  ServiceHooks:43 - Clear completed ToDo items is pass
